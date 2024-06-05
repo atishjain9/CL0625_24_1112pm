@@ -1,0 +1,86 @@
+Day 1:
+-----
+Date 3 Jun 24
+-------------
+Importance of C Language
+
+Day 2:
+-----
+Date 4 Jun 24
+-------------
+Engineering Scenario
+
+Day 3:
+-----
+Date: 5 Jun 24
+--------------
+What is Programming Language?
+giving instructions to the computer for performing tasks.
+
+Language?
+its a tool for communication
+
+communication:
+to exchange ideas or information
+
+What is C?
+It is a high Level programming language
+Dennis Ritchie 
+1972
+
+What is C?
+C is a General-Purpose, High-Level Programming Language Developed by Dennis Ritchie in 1972 at AT&T Bell labs of USA.
+
+Dennis Ritchie is known as Father of C Language.
+Mother of all Modern Programming Languages/Beginner Programming Language
+Ancestors of C:
+
+1967 – BCPL- Martin Richards
+1970 – B- Ken Thompson
+
+K&R Standard
+    In 1978, Brain Kernighan(UNIX) & Dennis Ritchie(C) produced first publicly Available description of C (The C     Programming language), known as the K&R Standard, Both added lots of features to c language.
+ANSI C / ISO C:
+     In 1983, C is standardized by ANSI, and later by ISO
+
+
+---------------
+BCPL – Basic Combined Programming Language
+AT&T – American Tele Communications & Technologies
+ANSI – American National Standard Institute
+ISO – International Standard Organisation
+
+Features of C Language:
+----------------------
+1. General Purpose Language
+2. High Level Language
+3. Structured Language
+4. Middle Level Language
+5. Portable
+6. Modularization
+7. Procedure Oriented - pop
+8. Rich Library
+9. Extensible
+10. Fast & Efficient ******
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
