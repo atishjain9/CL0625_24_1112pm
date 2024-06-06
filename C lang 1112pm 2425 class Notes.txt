@@ -64,6 +64,49 @@ Features of C Language:
 10. Fast & Efficient ******
  
 
+Day 4:
+-----
+Date: 6 Jun 24
+--------------
+
+32 keywords + approx 400 Library functions + syntax = c language
+
+speical files  - header files
+
+stdio.h
+conio.h
+math.h
+string.h
+29 approx header files
+
+Special software - Compiler
+
+c software = 32 keywords + 29 header files + compiler + debugger + linker + editor --> IDE
+IDE - Integrated DEvelopemnt eniorment
+
+------------------------
+
+Turbo c2/c3 - 
+Code Blocks
+Dev C++
+C - Free
+VS CODE
+
+---------
+We are using CodeBlocks for writing programs
+
+First Example
+
+
+
+
+
+
+
+
+
+
+# include <stdio.h>
 
 
 
