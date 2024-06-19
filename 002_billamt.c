@@ -11,6 +11,9 @@ int main()
     amt=0;
 
   //input statements
+  printf("Welcome to Kiranamarket Stores");
+  printf("\n------------------------------------------\n");
+
   printf("Enter price of Kitkat...:");
   scanf("%d",&p1);
 
@@ -23,5 +26,8 @@ int main()
   //output
   printf("Total Bill Amount is Rs..: %d",amt);
 
+  printf("\nThank you for Purchase, Visit Again...");
+
+  getch(); //makes your program to wait
   return 0;
 }
